@@ -37,5 +37,13 @@ QA Discussion and Closing Notes <br>
 # Speakers
 ![Global AI Bootcamp-Philippines 2023](https://user-images.githubusercontent.com/25387035/219931860-1b660404-bf22-4376-86d2-19c9015942d0.png)
 
+![Global AI Bootcamp-2023](https://github.com/rijwanansari/GLobalAIBootcamp2023/blob/main/Speaker%20Banners/Azure%20Speech%20AI%20Give%20your%20users%20and%20app%20a%20Voice.jpg)
+
+![Global AI Bootcamp-2023](https://github.com/rijwanansari/GLobalAIBootcamp2023/blob/main/Speaker%20Banners/Tailoring%20OpenAI's%20GPT-3%20to%20suit%20your%20specific%20needs.jpg)
+
+![Global AI Bootcamp-2023](https://github.com/rijwanansari/GLobalAIBootcamp2023/blob/main/Speaker%20Banners/Impact%20of%20design%20on%20emerging%20technology%20(AI%2C%20ML).jpg)
+
+
+![Global AI Bootcamp-2023](https://github.com/rijwanansari/GLobalAIBootcamp2023/blob/main/Speaker%20Banners/Intelligent%20Document%20Processing.jpg)
 
 
